@@ -1,0 +1,7 @@
+path: ~/Documents/AI/ClassificationDetection/Data/newdata
+train:  ~/Documents/AI/ClassificationDetection/Data/newdata/images/train
+val:  ~/Documents/AI/ClassificationDetection/Data/newdata/images/val
+test:  ~/Documents/AI/ClassificationDetection/Data/newdata/images/test
+
+nc: 3
+names: ['C1 - Usage Interne', 'C2 - Diffusion Restreinte', 'C3 - Secret']
